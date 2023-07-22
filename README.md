@@ -23,9 +23,6 @@
   <img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </p>
 
-<p align="center">I come from a Communication, Arts & Design background; Multimedia designer by trade, getting interested in developing Blockchain with Solidity. Web development combines my passion for the visual arts and the logical challenge of programming.</p>
-<p align="center">I'm a big advocate for a fast, efficient and highly-accessible web for everyone!</p>
-
 <p align="center">
 <sub>
   <sup>
