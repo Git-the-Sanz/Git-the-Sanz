@@ -15,11 +15,3 @@
                                               `--''          ;   |.'    ;   |  .'       
                                                              '---'      `---'           
                                                       
-
-
-
-<p align="center">
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=git-the-sanz&show_icons=true&locale=en&theme=dracula&hide=stars" />
-</a>
-
